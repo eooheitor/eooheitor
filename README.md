@@ -1,9 +1,17 @@
-- 👋 Olá, Sou o Heitor, tenho 18 anos e curso Sistemas de informação, estou gostando muito da área e pretendo me aprofundar cada vez mais.
-- 👀 Tenho interesse em adquirir mais conhecimento.
-- 🌱 No momento estou aprendendo JavaScript.
-- 📫 Entre em contato comigo : heitor.gb@outlook.com
+### Olá, eu sou o Heitor.
 
-<!---
-eooheitor/eooheitor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 Estudante de Sistemas de Informação no 4º semestre na UNIDAVI.
+- 💻 Desenvolvedor PHP com 1 ano de experiência.
+- 🌐 Apaixonado por tecnologia e programação.
+- 📚 Sempre em busca de aprender e aprimorar minhas habilidades.
+
+#### 🚀 Tecnologias e Ferramentas:
+
+- PHP
+- JS
+-HTML
+-CSS
+-Bootstrap
+-Git
+
+
