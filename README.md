@@ -9,9 +9,9 @@
 
 - PHP
 - JS
--HTML
--CSS
--Bootstrap
--Git
+- HTML
+- CSS
+- Bootstrap
+- Git
 
 
