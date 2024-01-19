@@ -13,5 +13,6 @@
 - CSS
 - Bootstrap
 - Git
+- Laravel
 
 
